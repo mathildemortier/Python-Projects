@@ -1,5 +1,3 @@
-# Python-Projects
-
 # Python Portfolio
 
 This repository contains my Python projects related to portfolio construction and financial metrics.
